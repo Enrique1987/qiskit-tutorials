@@ -68,8 +68,13 @@ pip install nbsphinx
 ## Authors and Citation
 
 Qiskit Tutorials is the work of [many people](https://github.com/Qiskit/qiskit-tutorials/graphs/contributors) who contribute to the project at different levels. If you use Qiskit, please cite as per the included [BibTeX
-file](https://github.com/Qiskit/qiskit/blob/master/Qiskit.bib).
+file](https://github.com/Qiskit/qiskit/blob/main/CITATION.bib).
 
 ## License
 
 [Apache License 2.0](LICENSE)
+
+
+## Historical API references
+
+These tutorials use older Qiskit APIs. Repaired links point to versioned documentation or archived implementations where the APIs have been removed. Ignis is deprecated. Link maintenance does not migrate the notebook code to current Qiskit releases.
